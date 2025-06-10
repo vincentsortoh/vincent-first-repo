@@ -1,3 +1,4 @@
 this is our first git repo. this is an example file
 this is the second line
-Its Tuesday and raining 
+Its Tuesday and raining cats and dogs
+this is nece
